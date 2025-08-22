@@ -1,4 +1,4 @@
-<img src='assets/osint.png' style='zoom: 80%;' align=left /> <font size='10'>Geo OSINT </font>  
+<img src='osint.png' style='zoom: 80%;' align=left /> <font size='10'>Geo OSINT </font>  
 
 22<sup>nd</sup> August 2025  
 
